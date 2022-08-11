@@ -6,7 +6,7 @@ Improving my competitive programming skills and knowledge of algorithms + advanc
 Qualification Round ([all prompts](https://codingcompetitions.withgoogle.com/codejam/round/0000000000876ff1)):
 
 1. Punched Cards ([solution](https://github.com/rohanphanse/google-code-jam-solutions/blob/main/punched-cards/src/main.rs))
-2. 
+2. 3D Printing ([solution](https://github.com/rohanphanse/google-code-jam-solutions/blob/main/three-printing/src/main.rs))
 3. 
 4. Chain Reactions ([solution](https://github.com/rohanphanse/google-code-jam-solutions/blob/main/chain-reactions/src/main.rs))
 
