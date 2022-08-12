@@ -3,7 +3,11 @@
 Improving my competitive programming skills and knowledge of algorithms + advanced data structures by solving [Google Code Jam 2022](https://codingcompetitions.withgoogle.com/codejam/archive/2022). Using Rust, a beautiful and powerful memory-safe language.
 
 ## My Solutions
-Qualification Round ([all prompts](https://codingcompetitions.withgoogle.com/codejam/round/0000000000876ff1)):
+**Round 1A ([all prompts](https://codingcompetitions.withgoogle.com/codejam/round/0000000000877ba5)):**
+
+1. Double or One Thing Solution ([solution](https://github.com/rohanphanse/google-code-jam-solutions/blob/main/double-one-thing/src/main.rs))
+
+**Qualification Round ([all prompts](https://codingcompetitions.withgoogle.com/codejam/round/0000000000876ff1)):**
 
 1. Punched Cards ([solution](https://github.com/rohanphanse/google-code-jam-solutions/blob/main/punched-cards/src/main.rs))
 2. 3D Printing ([solution](https://github.com/rohanphanse/google-code-jam-solutions/blob/main/three-printing/src/main.rs))

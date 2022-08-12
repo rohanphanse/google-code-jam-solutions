@@ -1,1 +1,5 @@
 target/
+
+# Replit
+.replit
+replit.nix
