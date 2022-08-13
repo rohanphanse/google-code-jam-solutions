@@ -3,6 +3,10 @@
 Improving my competitive programming skills and knowledge of algorithms + advanced data structures by solving [Google Code Jam 2022](https://codingcompetitions.withgoogle.com/codejam/archive/2022). Using Rust, a beautiful and powerful memory-safe language.
 
 ## My Solutions
+**Round 1B ([all prompts](https://codingcompetitions.withgoogle.com/codejam/round/000000000087711b)):**
+
+1. Pancake Deque ([solution](https://github.com/rohanphanse/google-code-jam-solutions/blob/main/pancake-deque/src/main.rs))
+
 **Round 1A ([all prompts](https://codingcompetitions.withgoogle.com/codejam/round/0000000000877ba5)):**
 
 1. Double or One Thing Solution ([solution](https://github.com/rohanphanse/google-code-jam-solutions/blob/main/double-one-thing/src/main.rs))
